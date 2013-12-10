@@ -10,4 +10,3 @@
   :jvm-opts ["-Djava.library.path=/usr/local/lib:/opt/local/lib:/usr/lib"]
 
   :aot :all)
-f
